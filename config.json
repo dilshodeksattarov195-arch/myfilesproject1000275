@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsrelete",
+        "uuid": 2305600,
+        "checksum": "pply3l"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
